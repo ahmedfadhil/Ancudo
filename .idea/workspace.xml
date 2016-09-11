@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="860ae396-4748-410e-8646-9188fdf4bb3e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" afterPath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" afterPath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" />
     </list>
     <ignored path="Ancudo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -632,12 +629,12 @@
       <workItem from="1472507139244" duration="1913000" />
       <workItem from="1472679971931" duration="2168000" />
       <workItem from="1472846426947" duration="1983000" />
-      <workItem from="1473535961122" duration="7240000" />
+      <workItem from="1473535961122" duration="7437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20735000" />
+    <option name="totallyTimeSpent" value="20932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
