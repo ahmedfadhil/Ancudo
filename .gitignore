@@ -6,7 +6,7 @@
 
 # Ignore bundler config.
 /.bundle
-
+/.idea/workspace.xml
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
@@ -20,4 +20,6 @@
 # Ignore Byebug command history file.
 .byebug_history
 
-/.idea/workspace.xml
+
+# Ignore application configuration
+/config/application.yml
