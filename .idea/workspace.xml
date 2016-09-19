@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="860ae396-4748-410e-8646-9188fdf4bb3e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users/registrations_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users/registrations_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/registrations/_basic_form.html.erb" afterPath="$PROJECT_DIR$/app/views/devise/registrations/_basic_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/registrations/_pro_form.html.erb" afterPath="$PROJECT_DIR$/app/views/devise/registrations/_pro_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20160915213041_add_stripe_customer_token_to_users.rb" afterPath="$PROJECT_DIR$/db/migrate/20160915213041_add_stripe_customer_token_to_users.rb" />
     </list>
     <ignored path="Ancudo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -628,12 +620,12 @@
       <workItem from="1473972559505" duration="244000" />
       <workItem from="1473972886419" duration="2634000" />
       <workItem from="1474317560896" duration="1425000" />
-      <workItem from="1474319088391" duration="1819000" />
+      <workItem from="1474319088391" duration="1922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34740000" />
+    <option name="totallyTimeSpent" value="34843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-222" y="-1027" width="1680" height="1027" extended-state="6" />
