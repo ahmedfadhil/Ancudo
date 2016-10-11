@@ -26,10 +26,33 @@
   border-color: #46b8da;
 }
 
-.avatar {
-  border-radius: 50%;
-  -webkit-box-shadow: 3px 42px 35px 6px rgba(0, 0, 0, 0.73);
-  -moz-box-shadow: 3px 42px 35px 6px rgba(0, 0, 0, 0.73);
-  box-shadow: 3px 42px 35px 6px rgba(0, 0, 0, 0.73);
+//.avatar {
+//  border-radius: 50%;
+//  -webkit-box-shadow: 3px 42px 35px 6px rgba(0, 0, 0, 0.73);
+//  -moz-box-shadow: 3px 42px 35px 6px rgba(0, 0, 0, 0.73);
+//  box-shadow: 3px 42px 35px 6px rgba(0, 0, 0, 0.73);
+//}
+
+.well.white-bg {
+  background-color: white;
 }
 
+/*User avatar size*/
+.user-show-avatar {
+  height: 128px;
+  width: 128px;
+}
+
+/*User index avatar for border-radius*/
+.user-index-avatar {
+  border-radius: 50%;
+}
+
+.jumbotron {
+  background-image: url("1.png");
+  background-size: cover;
+  height: 300px;
+
+
+
+}

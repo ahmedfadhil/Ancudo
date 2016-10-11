@@ -40,7 +40,7 @@
         <button type="submit" class="btn btn-default">Submit</button>
       </form>
       <div class="nav navbar-nav navbar-right">
-        <% if current_user %>
+        <% if user_signed_in? %>
             <%= link_to "Sign Out", destroy_user_session_path, class: 'btn btn-default navbar-btn', method: :delete %>
         <% else %>
             <%= link_to "Log In", new_user_session_path, class: 'btn btn-primary navbar-btn', method: :get %>
@@ -48,6 +48,10 @@
         <% end %>
       </div>
       <ul class="nav navbar-nav navbar-right">
+        <% if user_signed_in? %>
+            <li><%= link_to "Community", users_path %></li>
+            <li><%= link_to "My Account", edit_user_registration_path %></li>
+        <% end %>
         <li><%= link_to "About", about_path %></li>
         <li><%= link_to "Contact Us", new_contact_path(@contact) %></li>
       </ul>

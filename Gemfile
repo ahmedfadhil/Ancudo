@@ -5,6 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '~> 5.0.0'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', group: [:development, :test]
+# Autoprefixer gem
+gem 'autoprefixer-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 gem 'paperclip', '~> 5.1'
